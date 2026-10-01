@@ -83,5 +83,5 @@ To compile and run this project, you need a standard C++ compiler supporting **C
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/minahilmehmood99/HotelManagementSystemC-.git](https://github.com/minahilmehmood99/HotelManagementSystemC-.git)
+   git clone [https://github.com/minahilmehmood99/HotelManagementSystemCPP.git](https://github.com/minahilmehmood99/HotelManagementSystemC-.git)
    cd HotelManagementSystemC-
